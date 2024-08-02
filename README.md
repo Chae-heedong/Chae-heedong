@@ -1,16 +1,13 @@
-## Hi there 👋
+# gitstudy
 
-<!--
-**Chae-heedong/Chae-heedong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 채희동
+- 💬 채희동
+- 💬 tistory: gist.tistory.com
+- 💌 Email : 38482@naver.com
+- ⭐️ Instagram : heedong_1004
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 학력
+- 한국외국어대학교
+    - 인천서창중학교 졸업
+    - 인천진산과학고등학교 졸업
+    - 한국외대 Language&AI 융합학부 1기
